@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "70328602564",
+    "firebase_url": "https://goingplaceswithandroid.firebaseio.com",
+    "project_id": "goingplaceswithandroid",
+    "storage_bucket": "goingplaceswithandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70328602564:android:7ca20dafdc491805",
+        "android_client_info": {
+          "package_name": "com.varshney.goingplaceswithandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70328602564-fek4ubuu85ged4oh2aer3q03i6fjmcmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varshney.goingplaceswithandroid",
+            "certificate_hash": "b7c753c55cdc851eeaf845b576c2416b2479b769"
+          }
+        },
+        {
+          "client_id": "70328602564-9oav008rmu8kchf65u5bcoln4te7ld9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb1Kg4Gufd1hC6reocKwpB6NbywbT4QSg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70328602564-9oav008rmu8kchf65u5bcoln4te7ld9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
